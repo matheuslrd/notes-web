@@ -39,7 +39,7 @@
     "class-methods-use-this": "off",
     "sort-imports": "off",
     "max-len": [
-      "error",
+      "off",
       {
         "code": 90
       }
